@@ -131,10 +131,10 @@ jupyter notebook
 
 See `EnvironmentDetails.md` for full computational setup, including:
 
-* Python 3.11
+* Python 3.13
 * scikit-learn
 * pandas, numpy, matplotlib, seaborn, imblearn
-* OS: Windows 11, Intel Core i5, 8 GB RAM
+* OS: Windows 10, Intel Core i5, 8 GB RAM
 
 ---
 
@@ -146,16 +146,7 @@ This repository is submitted for academic purposes only. Dataset used under MIT 
 
 ##  Author
 
-**Monica Mmakokong Serwala**
-Final-Year Information Technology Student
-North-West University (Vaal Triangle Campus)
-ITRI616: Artificial Intelligence 1
-Lecturer: Mr. Melvin Kisten
+**Monica Serwala**
+Honours in Information Technology and Computer Science 
 
 ---
-
-##  Contact
-
-For academic queries: \[Insert your NWU email if allowed]
-
-```
